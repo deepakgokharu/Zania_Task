@@ -1,0 +1,11 @@
+GET = 'GET'
+POST = 'POST'
+PUT = 'PUT'
+
+API_PATH = '/api/v1'
+ALLOWED_EXTENSIONS = ['json', 'pdf']
+OPENAI_API_KEY = 'fkk25obwFNpYO9pe3Ek4p1L75jBITfMXbl3kYb63'
+MAX_CONTENT_LENGTH = 32 * 1024 * 1024
+
+JSON = 'json'
+PDF = 'pdf'
